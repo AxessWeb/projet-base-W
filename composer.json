@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "webforce3/w": "^1.0"
+        "webforce3/w": "^1.1"
     },
     "autoload": {
     "files": [ "vendor/webforce3/w/W/globals.php" ],
