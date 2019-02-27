@@ -6,7 +6,7 @@ Pour l'utiliser, il suffit de le cloner et de le renommer. N'oubliez pas de mett
 
 ####Spécifications
 Ce projet nécessite :
-* PHP: >= 5.5.9
+* PHP: >= 7.0.13
 * PHP extensions: mbstring, mysqli, intl, fileinfo
 * MariaDB ou MySQL: >=5.x
 * Server modules : composer
@@ -15,4 +15,4 @@ Ce projet nécessite :
 ####Installation
 Utilisez `composer install -o` pour installer les dépendances nécessaires
 
-Accédez ensuite à http://localhost/nom_de_mon_projet/public/check.php afin de vérifier que tout est fonctionnel.
+Accédez ensuite à http://localhost/nom_de_mon_projet/public/ afin de vérifier que tout est fonctionnel.

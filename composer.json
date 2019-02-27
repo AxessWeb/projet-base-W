@@ -1,7 +1,7 @@
 {
     "name": "w/your-project-name",
     "description": "Website yourwebsite.ext",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum-stability": "dev",
     "license": "MIT",
     "prefer-stable": true,
@@ -13,10 +13,11 @@
         }
     ],
     "require": {
-        "webforce3/w": "^1.1"
+        "php": ">=7.0.13",
+        "ext-intl": "*",
+        "webforce3/w": "^1.2"
     },
     "autoload": {
-    "files": [ "vendor/webforce3/w/W/globals.php" ],
         "psr-4": {
             "": "app/"
         }
