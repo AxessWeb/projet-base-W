@@ -1,3 +1,6 @@
+# Projet abandonné
+Remplacé par [framework-w/skeleton](https://github.com/framework-w/skeleton)
+
 ## Projet base W
 
 Ce projet est la structure de base d'un projet W. Il permet d'utiliser le framework en tant que package et donc de le maintenir à jour plus facilement.
